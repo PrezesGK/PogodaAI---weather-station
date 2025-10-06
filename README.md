@@ -49,24 +49,16 @@ The whole AI model can be accessed at: ... WSTAW TU LINK
 PogodaAI enables local communities to monitor and predict air quality independently.
 The system is affordable, modular, and open, making it ideal for education, research, and environmental action.
 
-📂 Repository Structure
-pogodaAI/
-├─ hardware/          # PCB files, 3D models, wiring, firmware
-├─ docs/              # Documentation, diagrams, photos
-├─ examples/          # Demo scripts
-├─ LICENSE
-└─ README.md
-
-📜 License
+--- License ---
 
 Open-source under the MIT License. You are free to use, modify, and distribute.
 
-🤝 Contributing
+--- Contributing ---
 
 Contributions are welcome!
 Submit issues, pull requests, or improvements to the documentation.
 
-📸 Gallery
+--- Gallery ---
 
 ![IMG_5428](https://github.com/user-attachments/assets/ef501315-47ab-43dc-ae49-e98b1c71599f)
 ![IMG_5431](https://github.com/user-attachments/assets/3cff6415-c234-4fa3-a308-31e5a326c136)
